@@ -1,2 +1,2 @@
-# Yiqul.id
+Yiqul.id
 Website Yiqul
